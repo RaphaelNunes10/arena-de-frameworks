@@ -14,6 +14,7 @@ Os componentes se encontram em: src/components
 Vue:  
 [Fundamentos da Reatividade](https://pt.vuejs.org/guide/essentials/reactivity-fundamentals)  
 [Interpretação de Lista](https://pt.vuejs.org/guide/essentials/list.html)  
+[Gatilhos de Ciclo de Vida](https://pt.vuejs.org/guide/essentials/lifecycle.html)
 
 React:  
 [Renderizando Listas](https://pt-br.react.dev/learn/rendering-lists)  
