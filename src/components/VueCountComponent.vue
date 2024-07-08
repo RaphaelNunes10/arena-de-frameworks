@@ -14,8 +14,8 @@ function incrementarContagem() {
   console.log(`Número atual: ${contagem.value}`)
 };
 
-watch(() => contagem.value * 2, (dobroContagem) => {
-  console.log(`Dobro do número atual: ${dobroContagem}`)
+watch(contagem, (newContagem) => {
+  console.log(`Dobro do número atual: ${newContagem * 2}`)
 });
 </script>
 
