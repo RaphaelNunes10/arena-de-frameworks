@@ -1,0 +1,10 @@
+---
+import Layout from "../layouts/Layout.astro";
+import SvelteCountComponent from '../components/SvelteCountComponent.svelte';
+---
+
+<Layout>
+	<main>
+        <SvelteCountComponent client:load />
+	</main>
+</Layout>

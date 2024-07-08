@@ -17,6 +17,9 @@ export default function Lista() {
                 <a href="/vue-item-list">{"Ir para Lista Vue ->"}</a>
             </p>
             <p>
+                <a href="/svelte-item-list">{"Ir para Lista Svelte ->"}</a>
+            </p>
+            <p>
                 <a href="/">{"Voltar <-"}</a>
             </p>
         </>

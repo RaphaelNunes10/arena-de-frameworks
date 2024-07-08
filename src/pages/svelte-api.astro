@@ -1,0 +1,10 @@
+---
+import Layout from "../layouts/Layout.astro";
+import SvelteApiComponent from '../components/SvelteApiComponent.svelte';
+---
+
+<Layout>
+	<main>
+        <SvelteApiComponent client:load />
+	</main>
+</Layout>

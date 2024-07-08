@@ -26,6 +26,9 @@ export default function Api() {
                 <a href="/vue-api">{"Ir para API Vue ->"}</a>
             </p>
             <p>
+                <a href="/svelte-api">{"Ir para API Svelte ->"}</a>
+            </p>
+            <p>
                 <a href="/">{"Voltar <-"}</a>
             </p>
         </>

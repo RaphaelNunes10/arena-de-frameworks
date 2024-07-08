@@ -37,6 +37,9 @@ export default function Contagem() {
           <a href="/vue-count">{"Ir para Contagem Vue ->"}</a>
         </p>
         <p>
+          <a href="/svelte-count">{"Ir para Contagem Svelte ->"}</a>
+        </p>
+        <p>
           <a href="/">{"Voltar <-"}</a>
         </p>
       </>

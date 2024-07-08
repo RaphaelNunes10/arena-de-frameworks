@@ -22,6 +22,9 @@ onMounted(async () => {
         <a href="/react-api">Ir para API React -></a>
     </p>
     <p>
+        <a href="/svelte-api">Ir para API Svelte -></a>
+    </p>
+    <p>
         <a href="/">Voltar <-</a>
     </p>
 </template>

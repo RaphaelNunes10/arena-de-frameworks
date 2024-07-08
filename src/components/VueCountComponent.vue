@@ -27,6 +27,9 @@ watch(contagem, (newContagem) => {
     <a href="/react-count">Ir para Contagem React -></a>
   </p>
   <p>
+    <a href="/svelte-count">Ir para Contagem Svelte -></a>
+  </p>
+  <p>
     <a href="/">Voltar <-</a>
   </p>
 </template>

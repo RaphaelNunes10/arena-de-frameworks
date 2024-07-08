@@ -23,5 +23,10 @@ React:
 [useMemo](https://pt-br.react.dev/reference/react/useMemo)  
 [useRef](https://pt-br.react.dev/reference/react/useRef)
 
+Svelte:  
+[Componentes Svelte](https://svelte.dev/docs/svelte-components)  
+[Blocos Lógicos](https://svelte.dev/docs/logic-blocks)  
+[Funções de Ciclo de Vida](https://svelte.dev/docs/svelte)  
+
 Projeto criado em Astro  
 https://astro.build

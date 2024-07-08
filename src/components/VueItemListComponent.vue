@@ -17,6 +17,9 @@ const usuarios = [
         <a href="/react-item-list">Ir para Lista React -></a>
     </p>
     <p>
+        <a href="/svelte-item-list">Ir para Lista Svelte -></a>
+    </p>
+    <p>
         <a href="/">Voltar <-</a>
     </p>
 </template>
